@@ -46,4 +46,4 @@ If this policy changes, the new version will be posted on this page with a new d
 
 ## Contact
 
-Questions about this policy: YOUR-DEVELOPER-EMAIL
+Questions about this policy: hidefradioapp@yahoo.com
