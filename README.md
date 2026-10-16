@@ -1,12 +1,12 @@
 # HiDef Radio - Privacy Policy
 
-Last updated: October 5, 2026
+Last updated: October 16, 2026
 
 HiDef Radio is an Android app published by derek20la ("the developer"). It receives over-the-air radio with an RTL-SDR USB dongle.
 
 ## The short version
 
-HiDef Radio does not collect, send or share any personal data. It could not if it tried: the app has no internet permission.
+HiDef Radio does not collect, send or share any personal data. Nothing you do in the app is sent to the developer or anyone else.
 
 ## What the app does with data
 
