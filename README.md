@@ -30,4 +30,24 @@ HiDef Radio does not collect, send or share any personal data. Nothing you do in
 - **Notifications** - for the "now playing" notification with its play / pause buttons.
 - **Foreground service (media playback)** and **wake lock** - so the radio keeps playing with the screen off.
 - **Internet and network state** - only for the rtl_tcp source.
-- **Nearby devices** (local
+- **Nearby devices** (local network, Android 17 and later) - only for the rtl_tcp source, so the app can reach the server on your home network. Android asks you the first time you use it.
+
+## Google Play
+
+If you install the app from Google Play, Google may give the developer anonymous, aggregated statistics such as install counts and crash reports. That is governed by Google's privacy policy; the app itself sends nothing.
+
+## Data retention and deletion
+
+The developer receives and holds no user data, so there is nothing to retain or delete. Everything the app saves is on your device and under your control (see "Removing it").
+
+## Children
+
+HiDef Radio is a general-audience app and is not directed at children.
+
+## Changes
+
+If this policy changes, the new version will be posted on this page with a new date.
+
+## Contact
+
+Questions about this policy: hidefradioapp@yahoo.com
