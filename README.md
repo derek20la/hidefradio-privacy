@@ -30,4 +30,4 @@ HiDef Radio does not collect, send or share any personal data. Nothing you do in
 - **Notifications** - for the "now playing" notification with its play / pause buttons.
 - **Foreground service (media playback)** and **wake lock** - so the radio keeps playing with the screen off.
 - **Internet and network state** - only for the rtl_tcp source.
-- **Nearby devices** (local network, Android 17 and later) - only for the rtl_tcp source, so the app can reach the server on your
+- **Nearby devices** (local
